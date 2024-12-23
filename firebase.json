@@ -14,12 +14,12 @@
   ],
   "emulators": {
     "functions": {
-      "port": 5000
+      "port": 8080
     },
     "ui": {
       "enabled": true,
       "port": 3000
     },
     "singleProjectMode": true
-  }  
+  }
 }
